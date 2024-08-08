@@ -2,7 +2,7 @@
 
 <div class="github-introduction">
 
-Im a **Computational Scientist** ...
+Im a **Computational Scientist** specializing in computer vision, probabilistic ML, and causal inference to advance neuroscience research, particularly in making safer ML for clinical applications.
 
 </div>
 
