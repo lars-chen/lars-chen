@@ -1,7 +1,9 @@
 ### Hello! I'm Lars Chen.
 
 
-I’m a recent MSc graduate at the Bernstein Center for Computational Neuroscience (BCCN), where I explored the application of machine learning and causal inference in clinical neuroimaging. My research focuses on leveraging deep learning and structural causal models to generate counterfactual brain images, improving personalized treatment analysis for neurological disorders. Previously, I did my master's thesis with Prof. Dr. Kerstin Ritter at Charité Universitätsmedizin, where I developed a model using causal inference to simulate treatment effects on 3D brain MRI data. 
+- I’m a recent MSc graduate at the Bernstein Center for Computational Neuroscience (BCCN), where I explored the application of machine learning and causal inference in clinical neuroimaging.
+- My research focuses on leveraging deep learning and structural causal models to generate counterfactual brain images, improving personalized treatment analysis for neurological disorders.
+- I did my master's thesis with Prof. Dr. Kerstin Ritter at Charité Universitätsmedizin, where I developed a model using causal inference to simulate treatment effects on 3D brain MRI data.
 
 _______________________________________________________________________________________________________________________________________
 
